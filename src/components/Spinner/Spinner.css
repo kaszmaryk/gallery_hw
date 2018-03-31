@@ -1,0 +1,9 @@
+.gallery-image_spinner {
+    animation: SpinnersRotation infinite 2s linear;
+
+}
+
+@keyframes SpinnersRotation {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}

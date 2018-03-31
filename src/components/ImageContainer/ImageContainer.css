@@ -1,0 +1,9 @@
+.gallery-image-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+
+    border-radius: 10px;
+}
